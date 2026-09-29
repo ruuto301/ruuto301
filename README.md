@@ -4,4 +4,4 @@
 
 ## SNS
 
-- [Qiita](https://qiita.com/ANKM0)
+- [Qiita](https://qiita.com/ruuto301)
